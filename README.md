@@ -100,8 +100,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 <div align="justify">
 <i>HTML</i>
-</div> 
+</div>
 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Hemoni/Hemoni/blob/main/img/img/java.png?raw=true"/></a></code>
+&nbsp; 
+</div>
+<div align="justify">
+<i>JAVA</i>
+</div>
 -----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Hemoni"/>
