@@ -97,12 +97,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Hemoni/Hemoni/blob/main/img/img/html.svg"/></a></code>
 &nbsp;
-
 </div>
 <div align="justify">
-<i>html</i>
+<i>HTML</i>
 </div> 
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Hemoni"/>
-
 -----
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Hemoni"/>
