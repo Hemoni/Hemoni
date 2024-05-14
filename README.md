@@ -1,7 +1,3 @@
-<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
-
------
-
 <div>
 <img align="center" alt="Header" src="https://github.com/Hemoni/Hemoni/blob/main/img/header.png?raw=true"/>
 </div>
@@ -46,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Hemoni</code>, tenho 19 anos, moro em BH e programo desde os 16 anos./>
+<i><b>Olá</b> :wave:, sou o <code>Hemoni</code>, tenho 19 anos, moro em BH e programo desde os 16 anos.
 </div>
 
 -----
