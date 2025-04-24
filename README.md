@@ -31,7 +31,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Hemoni</code>, tenho 19 anos, moro em BH e programo desde os 16 anos.
+<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 19 anos e programo desde os 17 anos.
 </div>
 
 -----
