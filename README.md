@@ -29,7 +29,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 19 anos e programo desde os 17 anos.
+<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 19 anos e programo desde os 17 anos. Faço projetos principalmente em React.Js, React Native e JavaScript. Tenho me especializado para ser um Programador FullStack.
 </div>
 
 -----
