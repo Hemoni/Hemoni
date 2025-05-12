@@ -74,6 +74,18 @@
 <div align="justify">
 <i>JAVA</i>
 </div>
+
+<div align="justify">
+<i>JAVASCRIPT</i>
+</div>
+
+<div align="justify">
+<i>REACT JS</i>
+</div>
+
+<div align="justify">
+<i>REACT NATIVE</i>
+</div>
 -----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Hemoni"/>
